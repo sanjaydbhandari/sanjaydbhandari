@@ -66,4 +66,4 @@
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
 
 <br>
-<p align="center">Nothing Is <span style="color:red">Difficult</span> It's Just <span style="color:green">Unfamiliar</span></p>
+<p align="center">Nothing Is Difficult, It's Just Unfamiliar</p>
