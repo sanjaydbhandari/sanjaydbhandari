@@ -67,4 +67,4 @@
 <br/>
 <br/>
 <hr>
-<center><p><b>Nothing Is Difficult, It's Just Unfamiliar</b></p></center>
+<center><p align="center"><b>Nothing Is Difficult, It's Just Unfamiliar</b></p></center>
