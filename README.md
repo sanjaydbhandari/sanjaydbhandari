@@ -9,7 +9,7 @@ Building scalable backend systems, high-concurrency platforms, and performance-o
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with **1.5+ years of experience building scalable systems**
+- 💻 Full Stack Developer with **2+ years of experience building scalable systems**
 - ⚡ Specialized in **Node.js backend architecture and API performance optimization**
 - 📈 Improved **API response time by 80%** using Redis caching and query optimization
 - 🔄 Built systems supporting **500+ concurrent users**
